@@ -122,3 +122,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.ipynb_checkpoints
+.idea
+.mp4
+combined
+frames
+overlay
