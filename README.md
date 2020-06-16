@@ -15,7 +15,7 @@ At the examples given in jupyter notebooks, you need to replace <insert youtube 
 
 ### Examples
 
-- __[example_1:](https://github.com/iodriller/Semantic-Segmentation/blob/master/example_1.ipynb)__ - With the given youtube link, it downloads the video, separates into a set of images (frame rate is adjustable), runs the desired semantic segmentation algorithm and reconstructs a video as the original video at the background overlayed with the object detection from the net.
+- __[example_1:](https://github.com/iodriller/Semantic-Segmentation/blob/master/Example_1.ipynb)__ - With the given youtube link, it downloads the video, separates into a set of images (frame rate is adjustable), runs the desired semantic segmentation algorithm and reconstructs a video as the original video at the background overlayed with the object detection from the net.
 
 ### Comments
 
